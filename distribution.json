@@ -12,7 +12,7 @@
       "name": "My Hero Life Server",
       "description": "Serveur Minecraft RP",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/logo.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
       "discord": {
