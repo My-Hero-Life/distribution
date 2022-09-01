@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/SoraxDubbing/Documents/GitHub/distributionMHL/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "My Hero Life Server",
+    "description": "Serveur Minecraft RP",
+    "address": "87.98.251.52:30369",
+    "discord": {
+      "shortId": "My Hero Life Instance RolePlay",
+      "largeImageText": "https://discord.gg/VybHNEYF",
+      "largeImageKey": "Joue à My Hero Life"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}
