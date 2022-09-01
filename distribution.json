@@ -11,7 +11,7 @@
       "id": "mhl-1.12.2",
       "name": "My Hero Life Server",
       "description": "Serveur Minecraft RP",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/logo.png",
       "version": "1.0.0",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
