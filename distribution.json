@@ -9,16 +9,16 @@
   "servers": [
     {
       "id": "mhl-1.12.2",
-      "name": "My Hero Life Server",
+      "name": "L'Ascension du Pouvoir Server",
       "description": "Serveur Minecraft RP",
-      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/logo.png",
-      "version": "1.0.1",
+      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
+      "version": "1.0.2",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "My Hero Life Instance RolePlay",
+        "shortId": "L'Ascension du Pouvoir Instance RolePlay",
         "largeImageText": "https://discord.gg/VybHNEYF",
-        "largeImageKey": "Joue à My Hero Life"
+        "largeImageKey": "Joue à L'Ascension du Pouvoir"
       },
       "mainServer": true,
       "autoconnect": false,
