@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "My Hero Life Instance RolePlay",
         "largeImageText": "https://discord.gg/VybHNEYF",
-        "largeImageKey": "Joue à My Hero Life"
+        "largeImageKey": "Joue à L'ascension du Pouvoir"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -615,16 +615,16 @@
     },
     {
       "id": "mhl-1.12.2",
-      "name": "My Hero Life Server",
+      "name": "L'ascension du Pouvoir",
       "description": "Serveur Minecraft RP",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.3",
+      "version": "1.0.1",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "My Hero Life Instance RolePlay",
+        "shortId": "L'ascension du Pouvoir est une instance RolePlay en 1.12.2",
         "largeImageText": "https://discord.gg/VybHNEYF",
-        "largeImageKey": "Joue à My Hero Life"
+        "largeImageKey": "Joue à L'ascension du Pouvoir"
       },
       "mainServer": true,
       "autoconnect": false,
@@ -893,7 +893,7 @@
         },
         {
           "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourer's Workshop",
+          "name": "Armourers-Workshop",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
@@ -1022,13 +1022,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
-          "name": "OptiFine 1.12.2_HD_U_F5",
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2598821,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_F5.jar",
-            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+            "size": 2669107,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
           }
         },
         {
@@ -1072,34 +1072,6 @@
             "size": 2139906,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/vehicle-mod-0.44.1-1.12.2.jar",
             "MD5": "276818770667c1bff569d92287c53d95"
-          }
-        },
-        {
-          "id": "xaero.minimap:xaerominimap:22.13.2@jar",
-          "name": "Xaero's Minimap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1398221,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/optionaloff/Xaeros_Minimap_22.13.2_Forge_1.12.jar",
-            "MD5": "8d16eace8424dfaad523fc91de8ebe81"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "xaero.map:xaeroworldmap:1.26.6@jar",
-          "name": "Xaero's World Map",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 604994,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/optionaloff/XaerosWorldMap_1.26.6_Forge_1.12.jar",
-            "MD5": "4857735149ce58a0adfab073db84d10a"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         }
       ]

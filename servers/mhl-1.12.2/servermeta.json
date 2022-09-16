@@ -1,14 +1,14 @@
 {
   "$schema": "file:///C:/Users/SoraxDubbing/Documents/GitHub/distributionMHL/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "My Hero Life Server",
+    "version": "1.0.1",
+    "name": "L'ascension du Pouvoir",
     "description": "Serveur Minecraft RP",
     "address": "87.98.251.52:30369",
     "discord": {
-      "shortId": "My Hero Life Instance RolePlay",
+      "shortId": "L'ascension du Pouvoir est une instance RolePlay en 1.12.2",
       "largeImageText": "https://discord.gg/VybHNEYF",
-      "largeImageKey": "Joue à My Hero Life"
+      "largeImageKey": "Joue à L'ascension du Pouvoir"
     },
     "mainServer": true,
     "autoconnect": false
