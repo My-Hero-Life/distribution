@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.0",
+      "version": "1.0.3",
       "address": "game18-dc02.ouiheberg.com:26440",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -361,6 +361,39 @@
           }
         },
         {
+          "id": "de.keksuccino:auudio:1.0.3@jar",
+          "name": "Auudio",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27538,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/auudio_forge_1.0.3-1_MC_1.16.2-1.16.5.jar",
+            "MD5": "54dc2a6f104766d0e09f68978e06c677"
+          }
+        },
+        {
+          "id": "fionathemortal.betterbiomeblend:betterbiomeblend:1.16.4-1.2.9-forge@jar",
+          "name": "Better Biome Blend",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33454,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/betterbiomeblend-1.16.4-1.2.9-forge.jar",
+            "MD5": "5d49776d036ca355ee9a3ff88eeac8f3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.mrcrayfish:catalogue:1.6.1@jar",
+          "name": "Catalogue",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97637,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/catalogue-1.6.1-1.16.5.jar",
+            "MD5": "a54e53cbfb8c8b87b79b3dc4a7f59305"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre22@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
@@ -381,6 +414,26 @@
           }
         },
         {
+          "id": "dzwdz.chat_heads:chat_heads:0.6.0@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27778,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/chat_heads-0.6.0-forge-1.16.5.jar",
+            "MD5": "10595dfd1a32c8e46e11a649f565fbe9"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth-config:4.16.91@jar",
+          "name": "Cloth Config v4 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1441438,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/cloth-config-4.16.91-forge.jar",
+            "MD5": "3d099c99dfe94f89280815d302d1ea94"
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.16.5.20220515@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
@@ -391,6 +444,26 @@
           }
         },
         {
+          "id": "anar4732.dcch:dcch:1@jar",
+          "name": "Dont Clear Chat History",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3311,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/DontClearChatHistory-1.jar",
+            "MD5": "7978ed0c721f82e0bd7b77deb7bd0f37"
+          }
+        },
+        {
+          "id": "de.keksuccino:drippyloadingscreen:1.6.4@jar",
+          "name": "Drippy Loading Screen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 409261,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/drippyloadingscreen_forge_1.6.4_MC_1.16.2-1.16.5.jar",
+            "MD5": "087a48c6459f992d5fe51ee36ba26bc5"
+          }
+        },
+        {
           "id": "me.lambdaurora.lambdynlights:dynamiclightsreforged:mc1.16.5_v1.0.1@jar",
           "name": "Dynamic Lights Reforged",
           "type": "ForgeMod",
@@ -398,6 +471,163 @@
             "size": 122118,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
             "MD5": "1cda780a90261f66a3a3b5dce12b903c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:4.0.2@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 207069,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/entity_texture_features_forge_1.16.5-4.0.2.jar",
+            "MD5": "2f726e2c8b52f87e35a3d8c5c3da0a19"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "meldexun.entityculling:entity_culling:2.1.6@jar",
+          "name": "Entity Culling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60714,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/EntityCulling-1.16.5-2.1.6.jar",
+            "MD5": "99280d6fb3b1b6d305a47cdeb3df264c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:2.12.2@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 922971,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/fancymenu_forge_2.12.2_MC_1.16.2-1.16.5.jar",
+            "MD5": "46f16082e037737f9f71fa14bfa852a6"
+          }
+        },
+        {
+          "id": "nick1st.fancyvideo:fancyvideo-api:1.16.5-0.1.1.1-beta@jar",
+          "name": "FancyVideo API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18442754,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/FancyVideo-API-1.16.5-0.1.1.1-beta-fat.jar",
+            "MD5": "066a6de895da0d511ccb60030d029d80"
+          }
+        },
+        {
+          "id": "tfar.fastbenchminusreplacement:fastbenchminusreplacement:1.4@jar",
+          "name": "FastWorkbench Minus Replacement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20615,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/fastbenchminusreplacement-1.4.jar",
+            "MD5": "7f9e3fe3d577ea1c910e3ad005e29e1f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "tfar.fastfurnaceminusreplacement:fastfurnaceminusreplacement:1.1-1.16.3@jar",
+          "name": "Fast Furnace Minus Replacement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6039,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/fastfurnaceminusreplacement-1.1-1.16.3.jar",
+            "MD5": "9b0980bd08ffd1b5f445014cd4a33e0c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:2.1.0@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108520,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/ferritecore-2.1.0-forge.jar",
+            "MD5": "6b469b99aa6f89b6ebad7aefa3cb9843"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.keksuccino.fmaudio:fmextension_audio:1.1.1@jar",
+          "name": "FancyMenu Audio Extension",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80737,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/fm_audio_extension_forge_1.1.1_MC_1.16.2-1.16.5.jar",
+            "MD5": "6d5afe2f9ad54151f944a03671cef0d8"
+          }
+        },
+        {
+          "id": "org.jmt.mcmt:jmt_mcmt:0.22.87@jar",
+          "name": "JMT MCMT",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179223,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87-modcore.jar",
+            "MD5": "b5fbb802a06fe2a56669faf4181d96ec"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:jmt_mcmt:1.16.5-0.22.87@jar",
+          "name": "Jmt_mcmt",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178052,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87.jar",
+            "MD5": "7b714f318df4c0935bb0c42909e5338b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.5.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 577954,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/konkrete_forge_1.5.0_MC_1.16.2-1.16.5.jar",
+            "MD5": "80e8bfaa1e59727fb023425c1be803b9"
+          }
+        },
+        {
+          "id": "ru.vidtu:ksyxis:1.1@jar",
+          "name": "Ksyxis",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9186,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "MD5": "7c1761cff6514ccfbe8fde869f3a4f5b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.steinborn:lazydfu:0.1.3@jar",
+          "name": "LazyDFU",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15258,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/lazydfu-0.1.3.jar",
+            "MD5": "fce7920ba6329d631da4025e9322e5e0"
           },
           "required": {
             "value": false
@@ -460,6 +690,16 @@
           }
         },
         {
+          "id": "shadows.placebo:placebo:4.7.0@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165522,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Placebo-1.16.5-4.7.0.jar",
+            "MD5": "0fbcdd597432d365527f72e0db98c07f"
+          }
+        },
+        {
           "id": "su.plo.voice:plasmo_voice:1.2.19@jar",
           "name": "Plasmo Voice",
           "type": "ForgeMod",
@@ -467,6 +707,16 @@
             "size": 4974313,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/plasmovoice-forge-1.16-1.2.19.jar",
             "MD5": "e111cb48088fafd24c524ccd95e05ddf"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.lithium:roadrunner:1.4.1@jar",
+          "name": "Meep Meep! (Road Runner)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 366414,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/RoadRunner-mc1.16.5-1.4.1.jar",
+            "MD5": "b76e79384c46bbc5e095b42d522eb036"
           }
         },
         {
@@ -519,6 +769,32 @@
           }
         },
         {
+          "id": "io.github.ultimateboomer:smoothboot:1.16.4-1.2.2@jar",
+          "name": "Smooth Boot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84744,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/smoothboot-forge-1.16.4-1.2.2.jar",
+            "MD5": "104ca76ce6b18b90fbfa4c58b3bbdfc2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "ca.spottedleaf:starlight:1.0.0-RC2@jar",
+          "name": "Starlight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 101511,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/starlight-1.2.jar",
+            "MD5": "0300a2592cdb4b82f7203b4f0f9af87b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.tac.guns:tac:0.2.0@jar",
           "name": "Timeless and Classics",
           "type": "ForgeMod",
@@ -562,34 +838,6 @@
           }
         },
         {
-          "id": "xaero.minimap:xaerominimap:22.14.0@jar",
-          "name": "Xaero's Minimap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1193558,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/Xaeros_Minimap_22.14.0_Forge_1.16.5.jar",
-            "MD5": "97251eab77d12680eea731fe47574bad"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "xaero.map:xaeroworldmap:1.27.0@jar",
-          "name": "Xaero's World Map",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 606369,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/XaerosWorldMap_1.27.0_Forge_1.16.5.jar",
-            "MD5": "892da61350a3311228de15e5bb4eeb47"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "config.json",
           "name": "config.json",
           "type": "File",
@@ -598,6 +846,380 @@
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/PlasmoVoice/config.json",
             "MD5": "71636d59fab103740ffab3373aa1fe62",
             "path": "config/PlasmoVoice/config.json"
+          }
+        },
+        {
+          "id": "config.cfg",
+          "name": "config.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 319,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/drippyloadingscreen/config.cfg",
+            "MD5": "391b3af74c3accbab6adff44e8b8e859",
+            "path": "config/drippyloadingscreen/config.cfg"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 45887,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/drippyloadingscreen/locals/en_us.local",
+            "MD5": "bd3a1e0ea54606058bb406294191a6ed",
+            "path": "config/drippyloadingscreen/locals/en_us.local"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1622,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/config.txt",
+            "MD5": "97a21d02cad52c3dce0c4de42a015a1d",
+            "path": "config/fancymenu/config.txt"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "fe5f2f91fcc0653b93634a414aa90cd5",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "config.cfg",
+          "name": "config.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/extensions/fmaudio/config.cfg",
+            "MD5": "9ab341528ec51f92869a1a9d02876c5d",
+            "path": "config/fancymenu/extensions/fmaudio/config.cfg"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 3363,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/extensions/fmaudio/locals/en_us.local",
+            "MD5": "f890c4649986796eecfc1cc2de02ded0",
+            "path": "config/fancymenu/extensions/fmaudio/locals/en_us.local"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 27376,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/de_de.local",
+            "MD5": "f43e602abc1b3081611a3ee39efa0bdd",
+            "path": "config/fancymenu/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 88785,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/en_us.local",
+            "MD5": "4ada2c42eee32699561b550f6623c11f",
+            "path": "config/fancymenu/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 13858,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/pl_pl.local",
+            "MD5": "22c68afab02c97f21832b904a5e4413c",
+            "path": "config/fancymenu/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 14283,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/pt_br.local",
+            "MD5": "9a91316e7c6e61a7a1e0874f34f77482",
+            "path": "config/fancymenu/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "zh_cn.local",
+          "name": "zh_cn.local",
+          "type": "File",
+          "artifact": {
+            "size": 52106,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/zh_cn.local",
+            "MD5": "20a74fbf1560def5e5528b78fb30fbfe",
+            "path": "config/fancymenu/locals/zh_cn.local"
+          }
+        },
+        {
+          "id": "menu_identifiers.db",
+          "name": "menu_identifiers.db",
+          "type": "File",
+          "artifact": {
+            "size": 10497,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/menu_identifiers.db",
+            "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
+            "path": "config/fancymenu/menu_identifiers.db"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 40,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/user_variables.db",
+            "MD5": "eec0f310caf96daa823c26b23cdc031a",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5437,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/options.txt",
+            "MD5": "7d7f80913876c840c297a19e60666288",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 244,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/font/default.json",
+            "MD5": "f3b05363d13d16c773a903eb562529e6",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/font/default.json"
+          }
+        },
+        {
+          "id": "bar.png",
+          "name": "bar.png",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/textures/font/bar.png",
+            "MD5": "0c3f38469c45a5ad59bd73b7711c08a5",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/textures/font/bar.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/pack.mcmeta",
+            "MD5": "cac8e36e46a45e3c31bcf027d4388dd6",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/pack.mcmeta"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 524,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/font/default.json",
+            "MD5": "c786bdec56c5c5b5a1cfb09bac8dfc9e",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/font/default.json"
+          }
+        },
+        {
+          "id": "1_row_gui.png",
+          "name": "1_row_gui.png",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/1_row_gui.png",
+            "MD5": "a0e21f696708e701000fb54b1eabf154",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/1_row_gui.png"
+          }
+        },
+        {
+          "id": "2_row_gui.png",
+          "name": "2_row_gui.png",
+          "type": "File",
+          "artifact": {
+            "size": 320,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/2_row_gui.png",
+            "MD5": "78ee410ad8862bb5eade995b2c45d7d0",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/2_row_gui.png"
+          }
+        },
+        {
+          "id": "3_row_gui.png",
+          "name": "3_row_gui.png",
+          "type": "File",
+          "artifact": {
+            "size": 365,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/3_row_gui.png",
+            "MD5": "fc2f6a81e6f2e6338ef0952de0a7cc14",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/3_row_gui.png"
+          }
+        },
+        {
+          "id": "4_row_gui.png",
+          "name": "4_row_gui.png",
+          "type": "File",
+          "artifact": {
+            "size": 538,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/4_row_gui.png",
+            "MD5": "97fff2b0ae50613c62ca4e17052d96b7",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/4_row_gui.png"
+          }
+        },
+        {
+          "id": "4rowui.png",
+          "name": "4rowui.png",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/4rowui.png",
+            "MD5": "69e4c859eeafaf398f124a64c46fd472",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/4rowui.png"
+          }
+        },
+        {
+          "id": "5rowui.png",
+          "name": "5rowui.png",
+          "type": "File",
+          "artifact": {
+            "size": 595,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/5rowui.png",
+            "MD5": "d34efff816b8da881e4cbdf246b43b0f",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/5rowui.png"
+          }
+        },
+        {
+          "id": "blue_box.png",
+          "name": "blue_box.png",
+          "type": "File",
+          "artifact": {
+            "size": 106,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/blue_box.png",
+            "MD5": "ac482db5385a6d278ab557f3c7739999",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/blue_box.png"
+          }
+        },
+        {
+          "id": "emojis.png",
+          "name": "emojis.png",
+          "type": "File",
+          "artifact": {
+            "size": 132,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/emojis.png",
+            "MD5": "e9268b535ad50b44fda9ceb800cbb79e",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/emojis.png"
+          }
+        },
+        {
+          "id": "empty_gui1.png",
+          "name": "empty_gui1.png",
+          "type": "File",
+          "artifact": {
+            "size": 682,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/empty_gui1.png",
+            "MD5": "4cbb176a6ed748d5e9cb525683bbda74",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/empty_gui1.png"
+          }
+        },
+        {
+          "id": "negative_space.png",
+          "name": "negative_space.png",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/negative_space.png",
+            "MD5": "e5a13e6363befe329428e6a1580c354b",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/negative_space.png"
+          }
+        },
+        {
+          "id": "old.png",
+          "name": "old.png",
+          "type": "File",
+          "artifact": {
+            "size": 2043,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/old.png",
+            "MD5": "7f478b2294668ef258c30d1fe7495ba0",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/old.png"
+          }
+        },
+        {
+          "id": "red_box.png",
+          "name": "red_box.png",
+          "type": "File",
+          "artifact": {
+            "size": 110,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/red_box.png",
+            "MD5": "a9cc25a8b7a0801f799bb9b4894a3d42",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/red_box.png"
+          }
+        },
+        {
+          "id": "titles.png",
+          "name": "titles.png",
+          "type": "File",
+          "artifact": {
+            "size": 2328,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/titles.png",
+            "MD5": "f5a4915c18abc25d395c43a9ad4a5a0e",
+            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/titles.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 91,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/pack.mcmeta",
+            "MD5": "7d1188d6a65021e1dca1d6af6f93e353",
+            "path": "resourcepacks/TemplatePack/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 344,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/pack.png",
+            "MD5": "31c614ce1f33d42272c7382068296d55",
+            "path": "resourcepacks/TemplatePack/pack.png"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 83,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/servers.dat",
+            "MD5": "75fb87d4453c53e617ce76484638e7e6",
+            "path": "servers.dat"
           }
         },
         {
@@ -618,7 +1240,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "Serveur Minecraft RP",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -892,7 +1514,7 @@
           }
         },
         {
-          "id": "moe.plushie:Armourers-Workshop:1.12.2-0.51.0@jar",
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
           "name": "Armourers-Workshop",
           "type": "ForgeMod",
           "artifact": {
