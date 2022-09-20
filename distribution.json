@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": null,
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "game18-dc02.ouiheberg.com:26440",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -1224,7 +1224,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "Serveur Minecraft RP",
       "icon": null,
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
       "discord": {
