@@ -572,32 +572,6 @@
           }
         },
         {
-          "id": "org.jmt.mcmt:jmt_mcmt:0.22.87@jar",
-          "name": "JMT MCMT",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 179223,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87-modcore.jar",
-            "MD5": "b5fbb802a06fe2a56669faf4181d96ec"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:jmt_mcmt:1.16.5-0.22.87@jar",
-          "name": "Jmt_mcmt",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 178052,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87.jar",
-            "MD5": "7b714f318df4c0935bb0c42909e5338b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "de.keksuccino:konkrete:1.5.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
