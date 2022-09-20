@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -11,8 +11,8 @@
       "id": "adp-1.16.5",
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
-      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.3",
+      "icon": null,
+      "version": "1.0.2",
       "address": "game18-dc02.ouiheberg.com:26440",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -572,6 +572,32 @@
           }
         },
         {
+          "id": "org.jmt.mcmt:jmt_mcmt:0.22.87@jar",
+          "name": "JMT MCMT",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179223,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87-modcore.jar",
+            "MD5": "b5fbb802a06fe2a56669faf4181d96ec"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:jmt_mcmt:1.16.5-0.22.87@jar",
+          "name": "Jmt_mcmt",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178052,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87.jar",
+            "MD5": "7b714f318df4c0935bb0c42909e5338b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.5.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -809,6 +835,16 @@
             "size": 3397300,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
             "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5312767,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/worldedit-mod-7.2.5-dist.jar",
+            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
           }
         },
         {
@@ -1213,8 +1249,8 @@
       "id": "mhl-1.12.2",
       "name": "L'ascension du Pouvoir",
       "description": "Serveur Minecraft RP",
-      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.2",
+      "icon": null,
+      "version": "1.0.3",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1489,7 +1525,7 @@
         },
         {
           "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourers-Workshop",
+          "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
