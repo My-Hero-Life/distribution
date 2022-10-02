@@ -1,16 +1,16 @@
 {
   "$schema": "file:///C:/Users/SoraxDubbing/Documents/GitHub/distributionMHL/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.5",
     "name": "L'ascension du Pouvoir",
     "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
-    "address": "game18-dc02.ouiheberg.com:26440",
+    "address": "87.98.251.52:30369",
     "discord": {
       "shortId": "My Hero Life Instance RolePlay",
       "largeImageText": "https://discord.gg/VybHNEYF",
       "largeImageKey": "Joue à L'ascension du Pouvoir"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {

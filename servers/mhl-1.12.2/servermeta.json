@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/SoraxDubbing/Documents/GitHub/distributionMHL/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "L'ascension du Pouvoir",
     "description": "Serveur Minecraft RP",
     "address": "87.98.251.52:30369",
@@ -10,7 +10,7 @@
       "largeImageText": "https://discord.gg/VybHNEYF",
       "largeImageKey": "Joue à L'ascension du Pouvoir"
     },
-    "mainServer": true,
+    "mainServer": false,
     "autoconnect": false
   },
   "forge": {

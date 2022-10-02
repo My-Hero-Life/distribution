@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -11,16 +11,16 @@
       "id": "adp-1.16.5",
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
-      "icon": null,
-      "version": "1.0.4",
-      "address": "game18-dc02.ouiheberg.com:26440",
+      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
+      "version": "1.0.5",
+      "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "My Hero Life Instance RolePlay",
         "largeImageText": "https://discord.gg/VybHNEYF",
         "largeImageKey": "Joue à L'ascension du Pouvoir"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -828,7 +828,7 @@
           "artifact": {
             "size": 1141,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/PlasmoVoice/config.json",
-            "MD5": "71636d59fab103740ffab3373aa1fe62",
+            "MD5": "483567f3e03a079d9d1b07c89fea899e",
             "path": "config/PlasmoVoice/config.json"
           }
         },
@@ -980,21 +980,164 @@
           "name": "default.json",
           "type": "File",
           "artifact": {
-            "size": 244,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/font/default.json",
-            "MD5": "f3b05363d13d16c773a903eb562529e6",
-            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/font/default.json"
+            "size": 628,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/font/default.json",
+            "MD5": "e1c9cfdce5839f69c523bbd3f9e800c8",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/font/default.json"
           }
         },
         {
-          "id": "bar.png",
-          "name": "bar.png",
+          "id": "1_row_gui.png",
+          "name": "1_row_gui.png",
           "type": "File",
           "artifact": {
-            "size": 147,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/textures/font/bar.png",
-            "MD5": "0c3f38469c45a5ad59bd73b7711c08a5",
-            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/adp/textures/font/bar.png"
+            "size": 283,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/1_row_gui.png",
+            "MD5": "a0e21f696708e701000fb54b1eabf154",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/1_row_gui.png"
+          }
+        },
+        {
+          "id": "2_row_gui.png",
+          "name": "2_row_gui.png",
+          "type": "File",
+          "artifact": {
+            "size": 320,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/2_row_gui.png",
+            "MD5": "78ee410ad8862bb5eade995b2c45d7d0",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/2_row_gui.png"
+          }
+        },
+        {
+          "id": "3_row_gui.png",
+          "name": "3_row_gui.png",
+          "type": "File",
+          "artifact": {
+            "size": 365,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/3_row_gui.png",
+            "MD5": "fc2f6a81e6f2e6338ef0952de0a7cc14",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/3_row_gui.png"
+          }
+        },
+        {
+          "id": "4_row_gui.png",
+          "name": "4_row_gui.png",
+          "type": "File",
+          "artifact": {
+            "size": 538,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/4_row_gui.png",
+            "MD5": "97fff2b0ae50613c62ca4e17052d96b7",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/4_row_gui.png"
+          }
+        },
+        {
+          "id": "4rowui.png",
+          "name": "4rowui.png",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/4rowui.png",
+            "MD5": "69e4c859eeafaf398f124a64c46fd472",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/4rowui.png"
+          }
+        },
+        {
+          "id": "5rowui.png",
+          "name": "5rowui.png",
+          "type": "File",
+          "artifact": {
+            "size": 595,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/5rowui.png",
+            "MD5": "d34efff816b8da881e4cbdf246b43b0f",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/5rowui.png"
+          }
+        },
+        {
+          "id": "blue_box.png",
+          "name": "blue_box.png",
+          "type": "File",
+          "artifact": {
+            "size": 106,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/blue_box.png",
+            "MD5": "ac482db5385a6d278ab557f3c7739999",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/blue_box.png"
+          }
+        },
+        {
+          "id": "emojis.png",
+          "name": "emojis.png",
+          "type": "File",
+          "artifact": {
+            "size": 132,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/emojis.png",
+            "MD5": "e9268b535ad50b44fda9ceb800cbb79e",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/emojis.png"
+          }
+        },
+        {
+          "id": "empty_gui1.png",
+          "name": "empty_gui1.png",
+          "type": "File",
+          "artifact": {
+            "size": 682,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/empty_gui1.png",
+            "MD5": "4cbb176a6ed748d5e9cb525683bbda74",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/empty_gui1.png"
+          }
+        },
+        {
+          "id": "logo.png",
+          "name": "logo.png",
+          "type": "File",
+          "artifact": {
+            "size": 16993,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/logo.png",
+            "MD5": "1f7d5570beaa61f3a764cc8d4218e4b6",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/logo.png"
+          }
+        },
+        {
+          "id": "negative_space.png",
+          "name": "negative_space.png",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/negative_space.png",
+            "MD5": "e5a13e6363befe329428e6a1580c354b",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/negative_space.png"
+          }
+        },
+        {
+          "id": "old.png",
+          "name": "old.png",
+          "type": "File",
+          "artifact": {
+            "size": 2043,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/old.png",
+            "MD5": "7f478b2294668ef258c30d1fe7495ba0",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/old.png"
+          }
+        },
+        {
+          "id": "red_box.png",
+          "name": "red_box.png",
+          "type": "File",
+          "artifact": {
+            "size": 110,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/red_box.png",
+            "MD5": "a9cc25a8b7a0801f799bb9b4894a3d42",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/red_box.png"
+          }
+        },
+        {
+          "id": "titles.png",
+          "name": "titles.png",
+          "type": "File",
+          "artifact": {
+            "size": 2328,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/titles.png",
+            "MD5": "f5a4915c18abc25d395c43a9ad4a5a0e",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/textures/custom/titles.png"
           }
         },
         {
@@ -1009,179 +1152,14 @@
           }
         },
         {
-          "id": "default.json",
-          "name": "default.json",
-          "type": "File",
-          "artifact": {
-            "size": 524,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/font/default.json",
-            "MD5": "c786bdec56c5c5b5a1cfb09bac8dfc9e",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/font/default.json"
-          }
-        },
-        {
-          "id": "1_row_gui.png",
-          "name": "1_row_gui.png",
-          "type": "File",
-          "artifact": {
-            "size": 283,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/1_row_gui.png",
-            "MD5": "a0e21f696708e701000fb54b1eabf154",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/1_row_gui.png"
-          }
-        },
-        {
-          "id": "2_row_gui.png",
-          "name": "2_row_gui.png",
-          "type": "File",
-          "artifact": {
-            "size": 320,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/2_row_gui.png",
-            "MD5": "78ee410ad8862bb5eade995b2c45d7d0",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/2_row_gui.png"
-          }
-        },
-        {
-          "id": "3_row_gui.png",
-          "name": "3_row_gui.png",
-          "type": "File",
-          "artifact": {
-            "size": 365,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/3_row_gui.png",
-            "MD5": "fc2f6a81e6f2e6338ef0952de0a7cc14",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/3_row_gui.png"
-          }
-        },
-        {
-          "id": "4_row_gui.png",
-          "name": "4_row_gui.png",
-          "type": "File",
-          "artifact": {
-            "size": 538,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/4_row_gui.png",
-            "MD5": "97fff2b0ae50613c62ca4e17052d96b7",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/4_row_gui.png"
-          }
-        },
-        {
-          "id": "4rowui.png",
-          "name": "4rowui.png",
-          "type": "File",
-          "artifact": {
-            "size": 504,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/4rowui.png",
-            "MD5": "69e4c859eeafaf398f124a64c46fd472",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/4rowui.png"
-          }
-        },
-        {
-          "id": "5rowui.png",
-          "name": "5rowui.png",
-          "type": "File",
-          "artifact": {
-            "size": 595,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/5rowui.png",
-            "MD5": "d34efff816b8da881e4cbdf246b43b0f",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/5rowui.png"
-          }
-        },
-        {
-          "id": "blue_box.png",
-          "name": "blue_box.png",
-          "type": "File",
-          "artifact": {
-            "size": 106,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/blue_box.png",
-            "MD5": "ac482db5385a6d278ab557f3c7739999",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/blue_box.png"
-          }
-        },
-        {
-          "id": "emojis.png",
-          "name": "emojis.png",
-          "type": "File",
-          "artifact": {
-            "size": 132,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/emojis.png",
-            "MD5": "e9268b535ad50b44fda9ceb800cbb79e",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/emojis.png"
-          }
-        },
-        {
-          "id": "empty_gui1.png",
-          "name": "empty_gui1.png",
-          "type": "File",
-          "artifact": {
-            "size": 682,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/empty_gui1.png",
-            "MD5": "4cbb176a6ed748d5e9cb525683bbda74",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/empty_gui1.png"
-          }
-        },
-        {
-          "id": "negative_space.png",
-          "name": "negative_space.png",
-          "type": "File",
-          "artifact": {
-            "size": 120,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/negative_space.png",
-            "MD5": "e5a13e6363befe329428e6a1580c354b",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/negative_space.png"
-          }
-        },
-        {
-          "id": "old.png",
-          "name": "old.png",
-          "type": "File",
-          "artifact": {
-            "size": 2043,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/old.png",
-            "MD5": "7f478b2294668ef258c30d1fe7495ba0",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/old.png"
-          }
-        },
-        {
-          "id": "red_box.png",
-          "name": "red_box.png",
-          "type": "File",
-          "artifact": {
-            "size": 110,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/red_box.png",
-            "MD5": "a9cc25a8b7a0801f799bb9b4894a3d42",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/red_box.png"
-          }
-        },
-        {
-          "id": "titles.png",
-          "name": "titles.png",
-          "type": "File",
-          "artifact": {
-            "size": 2328,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/assets/minecraft/textures/custom/titles.png",
-            "MD5": "f5a4915c18abc25d395c43a9ad4a5a0e",
-            "path": "resourcepacks/TemplatePack/assets/minecraft/textures/custom/titles.png"
-          }
-        },
-        {
-          "id": "pack.mcmeta",
-          "name": "pack.mcmeta",
-          "type": "File",
-          "artifact": {
-            "size": 91,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/pack.mcmeta",
-            "MD5": "7d1188d6a65021e1dca1d6af6f93e353",
-            "path": "resourcepacks/TemplatePack/pack.mcmeta"
-          }
-        },
-        {
           "id": "pack.png",
           "name": "pack.png",
           "type": "File",
           "artifact": {
-            "size": 344,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/pack.png",
-            "MD5": "31c614ce1f33d42272c7382068296d55",
-            "path": "resourcepacks/TemplatePack/pack.png"
+            "size": 383977,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/pack.png",
+            "MD5": "0b3ea35a422482aca197d0bd21af1835",
+            "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/pack.png"
           }
         },
         {
@@ -1201,8 +1179,8 @@
       "id": "mhl-1.12.2",
       "name": "L'ascension du Pouvoir",
       "description": "Serveur Minecraft RP",
-      "icon": null,
-      "version": "1.0.4",
+      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
+      "version": "1.0.2",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1210,7 +1188,7 @@
         "largeImageText": "https://discord.gg/VybHNEYF",
         "largeImageKey": "Joue à L'ascension du Pouvoir"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
