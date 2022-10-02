@@ -976,17 +976,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 5437,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/options.txt",
-            "MD5": "7d7f80913876c840c297a19e60666288",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "default.json",
           "name": "default.json",
           "type": "File",
@@ -1193,17 +1182,6 @@
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/TemplatePack/pack.png",
             "MD5": "31c614ce1f33d42272c7382068296d55",
             "path": "resourcepacks/TemplatePack/pack.png"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 83,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/servers.dat",
-            "MD5": "75fb87d4453c53e617ce76484638e7e6",
-            "path": "servers.dat"
           }
         },
         {
