@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -361,6 +361,26 @@
           }
         },
         {
+          "id": "me.shedaniel:architectury:1.32.66@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 551890,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/architectury-1.32.66.jar",
+            "MD5": "5035bb619d94ef535c0094702ebe4f31"
+          }
+        },
+        {
+          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.0-dev.82@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2999716,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-dev.82.jar",
+            "MD5": "7dff303773590c99ce4f5e568541919f"
+          }
+        },
+        {
           "id": "de.keksuccino:auudio:1.0.3@jar",
           "name": "Auudio",
           "type": "ForgeMod",
@@ -441,6 +461,16 @@
             "size": 12457390,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
             "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
+          }
+        },
+        {
+          "id": "net.mcreator.decorationandfurnituremod:decoration_mod:1.6.0@jar",
+          "name": "Decoration and furniture mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7894096,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Decoration_Mod_1.6_Ver_1.16.5.jar",
+            "MD5": "7d7d633c03770d62c0d8a22cf772100f"
           }
         },
         {
@@ -631,6 +661,36 @@
           }
         },
         {
+          "id": "mtr:mtr:1.16.5-3.1.0@jar",
+          "name": "Modern Elevators and Escalators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20658442,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Modern-Elevators-Escalators-forge-1.16.5-3.1.0.jar",
+            "MD5": "272f69def8bc6b58992be0c419ec252f"
+          }
+        },
+        {
+          "id": "net.mcreator:minecraftmodernxl:1.0.0@jar",
+          "name": "Modernxl",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37979285,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Modernxl%201.16.5.jar",
+            "MD5": "4ff345b55d108c7d0c428ca1c197bf9a"
+          }
+        },
+        {
+          "id": "mtr:mtr:1.16.5-3.0.0@jar",
+          "name": "Minecraft Transit Railway",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 52559370,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.0.0.jar",
+            "MD5": "26431d3efe4993ce07cff3c23bc51042"
+          }
+        },
+        {
           "id": "com.mrcrayfish:obfuscate:0.6.3@jar",
           "name": "Obfuscate",
           "type": "ForgeMod",
@@ -681,16 +741,6 @@
             "size": 4974313,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/plasmovoice-forge-1.16-1.2.19.jar",
             "MD5": "e111cb48088fafd24c524ccd95e05ddf"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.lithium:roadrunner:1.4.1@jar",
-          "name": "Meep Meep! (Road Runner)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 366414,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/RoadRunner-mc1.16.5-1.4.1.jar",
-            "MD5": "b76e79384c46bbc5e095b42d522eb036"
           }
         },
         {
@@ -809,16 +859,6 @@
             "size": 3397300,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
             "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
-          }
-        },
-        {
-          "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
-          "name": "WorldEdit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5312767,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/worldedit-mod-7.2.5-dist.jar",
-            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
           }
         },
         {
@@ -1171,469 +1211,6 @@
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/shaderpacks/Sildur's+Vibrant+Shaders+v1.40+Extreme.zip",
             "MD5": "24eebee169fbb5716a57dd4064c1472b",
             "path": "shaderpacks/Sildur's+Vibrant+Shaders+v1.40+Extreme.zip"
-          }
-        }
-      ]
-    },
-    {
-      "id": "mhl-1.12.2",
-      "name": "L'ascension du Pouvoir",
-      "description": "Serveur Minecraft RP",
-      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.2",
-      "address": "87.98.251.52:30369",
-      "minecraftVersion": "1.12.2",
-      "discord": {
-        "shortId": "L'ascension du Pouvoir est une instance RolePlay en 1.12.2",
-        "largeImageText": "https://discord.gg/VybHNEYF",
-        "largeImageKey": "Joue à L'ascension du Pouvoir"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859:universal",
-          "name": "Minecraft Forge",
-          "type": "ForgeHosted",
-          "artifact": {
-            "size": 4466108,
-            "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.12.2-14.23.5.2859",
-              "name": "Minecraft Forge (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 12345,
-                "MD5": "1959bb357e54a9666dd80d744b524639",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-debug-all:5.2@jar",
-              "name": "Minecraft Forge (asm-debug-all)",
-              "type": "Library",
-              "artifact": {
-                "size": 387903,
-                "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
-              }
-            },
-            {
-              "id": "net.minecraft:launchwrapper:1.12@jar",
-              "name": "Minecraft Forge (launchwrapper)",
-              "type": "Library",
-              "artifact": {
-                "size": 32999,
-                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
-              }
-            },
-            {
-              "id": "org.jline:jline:3.5.1@jar",
-              "name": "Minecraft Forge (jline)",
-              "type": "Library",
-              "artifact": {
-                "size": 614590,
-                "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
-              }
-            },
-            {
-              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
-              "name": "Minecraft Forge (akka-actor_2.11)",
-              "type": "Library",
-              "artifact": {
-                "size": 2514991,
-                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
-              }
-            },
-            {
-              "id": "com.typesafe:config:1.2.1@jar",
-              "name": "Minecraft Forge (config)",
-              "type": "Library",
-              "artifact": {
-                "size": 219554,
-                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
-              "name": "Minecraft Forge (scala-actors-migration_2.11)",
-              "type": "Library",
-              "artifact": {
-                "size": 58018,
-                "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
-              "name": "Minecraft Forge (scala-compiler)",
-              "type": "Library",
-              "artifact": {
-                "size": 13449765,
-                "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc@jar",
-              "name": "Minecraft Forge (scala-continuations-library_2.11)",
-              "type": "Library",
-              "artifact": {
-                "size": 25365,
-                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc@jar",
-              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
-              "type": "Library",
-              "artifact": {
-                "size": 206575,
-                "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-library:2.11.1@jar",
-              "name": "Minecraft Forge (scala-library)",
-              "type": "Library",
-              "artifact": {
-                "size": 5538130,
-                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
-              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
-              "type": "Library",
-              "artifact": {
-                "size": 419701,
-                "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
-              "name": "Minecraft Forge (scala-reflect)",
-              "type": "Library",
-              "artifact": {
-                "size": 4372892,
-                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
-              "name": "Minecraft Forge (scala-swing_2.11)",
-              "type": "Library",
-              "artifact": {
-                "size": 726500,
-                "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
-              "name": "Minecraft Forge (scala-xml_2.11)",
-              "type": "Library",
-              "artifact": {
-                "size": 648679,
-                "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
-              }
-            },
-            {
-              "id": "lzma:lzma:0.0.1@jar",
-              "name": "Minecraft Forge (lzma)",
-              "type": "Library",
-              "artifact": {
-                "size": 5762,
-                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
-              }
-            },
-            {
-              "id": "java3d:vecmath:1.5.2@jar",
-              "name": "Minecraft Forge (vecmath)",
-              "type": "Library",
-              "artifact": {
-                "size": 318956,
-                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
-              }
-            },
-            {
-              "id": "net.sf.trove4j:trove4j:3.0.3@jar",
-              "name": "Minecraft Forge (trove4j)",
-              "type": "Library",
-              "artifact": {
-                "size": 2523218,
-                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
-              }
-            },
-            {
-              "id": "org.apache.maven:maven-artifact:3.5.3@jar",
-              "name": "Minecraft Forge (maven-artifact)",
-              "type": "Library",
-              "artifact": {
-                "size": 54961,
-                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
-              }
-            },
-            {
-              "id": "net.sf.jopt-simple:jopt-simple:5.0.3@jar",
-              "name": "Minecraft Forge (jopt-simple)",
-              "type": "Library",
-              "artifact": {
-                "size": 78175,
-                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
-              }
-            },
-            {
-              "id": "org.apache.logging.log4j:log4j-api:2.15.0@jar",
-              "name": "Minecraft Forge (log4j-api)",
-              "type": "Library",
-              "artifact": {
-                "size": 301804,
-                "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
-              }
-            },
-            {
-              "id": "org.apache.logging.log4j:log4j-core:2.15.0@jar",
-              "name": "Minecraft Forge (log4j-core)",
-              "type": "Library",
-              "artifact": {
-                "size": 1789769,
-                "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
-              }
-            },
-            {
-              "id": "org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0@jar",
-              "name": "Minecraft Forge (log4j-slf4j18-impl)",
-              "type": "Library",
-              "artifact": {
-                "size": 21223,
-                "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "org.spongepowered.asm.launch:_mixinbootstrap:1.1.0@jar",
-          "name": "_MixinBootstrap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1119478,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/_MixinBootstrap-1.1.0.jar",
-            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
-          }
-        },
-        {
-          "id": "zone.rong.mixinbooter:MixinBooter:5.0@jar",
-          "name": "!mixinbooter",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1063955,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/!mixinbooter-5.0.jar",
-            "MD5": "d11f388b52092247a4c5ce4753d72649"
-          }
-        },
-        {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2678747,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
-          }
-        },
-        {
-          "id": "com.artemis:artemislib:1.0.6@jar",
-          "name": "ArtemisLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21318,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/ArtemisLib-1.12.2-v1.0.6.jar",
-            "MD5": "cd4d52c46b76651ad3f3ee36961ca8fd"
-          }
-        },
-        {
-          "id": "com.blamejared:clumps:3.1.2@jar",
-          "name": "Clumps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13792,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/optionalon/Clumps-3.1.2.jar",
-            "MD5": "e0c4c4f04aeb0e0a48fc7534f9e7d6be"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "noppes.npcs:customnpcs:1.12@jar",
-          "name": "CustomNPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9911871,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/CustomNPCs1.12.2.jar",
-            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-          }
-        },
-        {
-          "id": "com.silvaniastudios.roads:furenikusroads:1.1.10@jar",
-          "name": "Fureniku's Roads",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3316649,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/Fureniku's%20Roads-1.1.10.jar",
-            "MD5": "ccde4687f588147a04293d84fe5e6f08"
-          }
-        },
-        {
-          "id": "com.mrcrayfish.furniture:cfm:6.3.1@jar",
-          "name": "MrCrayfish's Furniture Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2435626,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/furniture-6.3.1-1.12.2.jar",
-            "MD5": "7e4f4d160032658e095eff8221977800"
-          }
-        },
-        {
-          "id": "com.camellias:gulliverreborn:1.10@jar",
-          "name": "Gulliver Reborn",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21708,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/Gulliver+Reborn+mc1.12.2+v1.10%20(1).jar",
-            "MD5": "a8e94599858cee406ac9bb0d9c4d6616"
-          }
-        },
-        {
-          "id": "com.tlf.hn:hidenames:1.4.1@jar",
-          "name": "HideNames",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20406,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/HideNames-1.12.2-1.4.1.jar",
-            "MD5": "c8b8a5514f134a7add2fd53ebb600f0b"
-          }
-        },
-        {
-          "id": "zone.rong:loliasm:5.6@jar",
-          "name": "LoliASM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1536921,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/optionalon/loliasm-5.6.jar",
-            "MD5": "1be3399519762fb7880616ac74f37e30"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "yalter.mousetweaks:mousetweaks:2.10@jar",
-          "name": "Mouse Tweaks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 75170,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/optionaloff/MouseTweaks-2.10-mc1.12.2.jar",
-            "MD5": "e4dcbf47c3f99a780681e3a3a9fcf9e9"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "com.vicmatskiv:mw:0.4.4.6@jar",
-          "name": "Modern Warfare 2.0 Contagion",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 27545802,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/mw_2.0-0.4.4.6_mc1.12.2.jar",
-            "MD5": "69cbe3bd707a5284b1af20ebf0a9b0b9"
-          }
-        },
-        {
-          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-1.12.2@jar",
-          "name": "Obfuscate",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 129099,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2.jar",
-            "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
-          "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2669107,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "54e561e441192cf009803ae95873c5d0"
-          }
-        },
-        {
-          "id": "meldexun.renderlib:renderlib:1.1.7@jar",
-          "name": "RenderLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 111667,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/RenderLib-1.12.2-1.1.7.jar",
-            "MD5": "834c5158ed5b8370210d3e63988d7950"
-          }
-        },
-        {
-          "id": "link.infra:screenshotclipboard:1.12.2-1.0.1@jar",
-          "name": "Screenshot to Clipboard",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4333,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/optionalon/ScreenshotToClipboard-1.12.2-1.0.1.jar",
-            "MD5": "730c0b520b2953043831a0aca89c12eb"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "noppes.vc:variedcommodities:1.0@jar",
-          "name": "Varied Commodities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1548397,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/Varied-Commodities-Mod-1.12.2.jar",
-            "MD5": "5ce33db5db477dad820a7dd7de974425"
-          }
-        },
-        {
-          "id": "com.mrcrayfish:vehicle:0.44.1@jar",
-          "name": "MrCrayfish's Vehicle Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2139906,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/mhl-1.12.2/forgemods/required/vehicle-mod-0.44.1-1.12.2.jar",
-            "MD5": "276818770667c1bff569d92287c53d95"
           }
         }
       ]
