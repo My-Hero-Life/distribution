@@ -661,7 +661,7 @@
           }
         },
         {
-          "id": "mtr:mtr:1.16.5-3.1.0@jar",
+          "id": "mee:mee:1.16.5-3.1.0@jar",
           "name": "Modern Elevators and Escalators",
           "type": "ForgeMod",
           "artifact": {
