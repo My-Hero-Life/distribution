@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.6",
+      "version": "1.0.8",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -661,16 +661,6 @@
           }
         },
         {
-          "id": "mee:mee:1.16.5-3.1.0@jar",
-          "name": "Modern Elevators and Escalators",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20658442,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Modern-Elevators-Escalators-forge-1.16.5-3.1.0.jar",
-            "MD5": "272f69def8bc6b58992be0c419ec252f"
-          }
-        },
-        {
           "id": "net.mcreator:minecraftmodernxl:1.0.0@jar",
           "name": "Modernxl",
           "type": "ForgeMod",
@@ -681,13 +671,13 @@
           }
         },
         {
-          "id": "mtr:mtr:1.16.5-3.0.0@jar",
+          "id": "mtr:mtr:1.16.5-3.1.2@jar",
           "name": "Minecraft Transit Railway",
           "type": "ForgeMod",
           "artifact": {
-            "size": 52559370,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.0.0.jar",
-            "MD5": "26431d3efe4993ce07cff3c23bc51042"
+            "size": 58396504,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.1.2.jar",
+            "MD5": "ae700563f26cff32747d2b45065ae01f"
           }
         },
         {
@@ -714,13 +704,13 @@
           }
         },
         {
-          "id": "virtuoel.pehkui:pehkui:3.4.2+1.16.5-forge@jar",
+          "id": "virtuoel.pehkui:pehkui:3.5.0+1.16.5-forge@jar",
           "name": "Pehkui",
           "type": "ForgeMod",
           "artifact": {
-            "size": 357616,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Pehkui-3.4.2+1.16.5-forge.jar",
-            "MD5": "6db1bd381700c8b346214992d746ac90"
+            "size": 361045,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Pehkui-3.5.0+1.16.5-forge.jar",
+            "MD5": "d6b1a3248ace2a8c9b94ee3d4ae55842"
           }
         },
         {
