@@ -25,6 +25,15 @@
 		]
 	},
 	{
+		"file":"custom/logo.png",
+		"ascent":8,
+		"type":"bitmap",
+		"chars":[
+			"網"
+		]
+	}
+	]
+	{
 		"file":"custom/old.png",
 		"ascent":7,
 		"type":"bitmap",
