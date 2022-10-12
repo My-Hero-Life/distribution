@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -11,8 +11,8 @@
       "id": "adp-1.16.5",
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
-      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.0.9",
+      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png"ll,
+      "version": "1.1.1",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -464,26 +464,6 @@
           }
         },
         {
-          "id": "net.mcreator.decorationandfurnituremod:decoration_mod:1.6.0@jar",
-          "name": "Decoration and furniture mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7894096,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Decoration_Mod_1.6_Ver_1.16.5.jar",
-            "MD5": "7d7d633c03770d62c0d8a22cf772100f"
-          }
-        },
-        {
-          "id": "anar4732.dcch:dcch:1@jar",
-          "name": "Dont Clear Chat History",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3311,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/DontClearChatHistory-1.jar",
-            "MD5": "7978ed0c721f82e0bd7b77deb7bd0f37"
-          }
-        },
-        {
           "id": "de.keksuccino:drippyloadingscreen:1.6.4@jar",
           "name": "Drippy Loading Screen",
           "type": "ForgeMod",
@@ -661,16 +641,6 @@
           }
         },
         {
-          "id": "net.mcreator:minecraftmodernxl:1.0.0@jar",
-          "name": "Modernxl",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37979285,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Modernxl%201.16.5.jar",
-            "MD5": "4ff345b55d108c7d0c428ca1c197bf9a"
-          }
-        },
-        {
           "id": "mtr:mtr:1.16.5-3.1.0@jar",
           "name": "Minecraft Transit Railway",
           "type": "ForgeMod",
@@ -678,6 +648,26 @@
             "size": 58396504,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.1.0.jar",
             "MD5": "82af5b944f1025ac59e0fea73faddea3"
+          }
+        },
+        {
+          "id": "mtr:mtr:1.16.5-3.1.3@jar",
+          "name": "Minecraft Transit Railway",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58621082,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.1.3.jar",
+            "MD5": "9113f472d30a044b11a5bd71968ddd90"
+          }
+        },
+        {
+          "id": "com.nosiphus.furniture:nfm:2022.08.29@jar",
+          "name": "Nosiphus Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 981173,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/nfm-2022.08.29-1.16.5.jar",
+            "MD5": "43c69939486dd7fab1563c610760905a"
           }
         },
         {
@@ -698,6 +688,19 @@
             "size": 1801950,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/oculus-1.2.6.jar",
             "MD5": "080b94f0ef63770e75b8bf9f6efa73cd"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5924305,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           },
           "required": {
             "value": false
@@ -988,9 +991,9 @@
           "name": "menu_identifiers.db",
           "type": "File",
           "artifact": {
-            "size": 10497,
+            "size": 10188,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/menu_identifiers.db",
-            "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
+            "MD5": "65c33f61d9372bcfc50579b7f39085e3",
             "path": "config/fancymenu/menu_identifiers.db"
           }
         },
@@ -1010,9 +1013,9 @@
           "name": "default.json",
           "type": "File",
           "artifact": {
-            "size": 628,
+            "size": 573,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/font/default.json",
-            "MD5": "e1c9cfdce5839f69c523bbd3f9e800c8",
+            "MD5": "22e839a12969bee662d0bee251af186c",
             "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/font/default.json"
           }
         },
@@ -1175,9 +1178,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 126,
+            "size": 121,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/pack.mcmeta",
-            "MD5": "cac8e36e46a45e3c31bcf027d4388dd6",
+            "MD5": "b0c9e569f605b5e1782d88c9293ca64f",
             "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/pack.mcmeta"
           }
         },
