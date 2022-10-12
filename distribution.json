@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -738,13 +738,13 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.16.5_HD_U_G7:0.0.0@jar",
-          "name": "OptiFine_1.16.5_HD_U_G7",
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G8:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G8",
           "type": "Library",
           "artifact": {
-            "size": 5924305,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/libraries/OptiFine_1.16.5_HD_U_G7.jar",
-            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
         {
