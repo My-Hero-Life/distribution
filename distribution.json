@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -391,19 +391,6 @@
           }
         },
         {
-          "id": "fionathemortal.betterbiomeblend:betterbiomeblend:1.16.4-1.2.9-forge@jar",
-          "name": "Better Biome Blend",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 33454,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/betterbiomeblend-1.16.4-1.2.9-forge.jar",
-            "MD5": "5d49776d036ca355ee9a3ff88eeac8f3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.mrcrayfish:catalogue:1.6.1@jar",
           "name": "Catalogue",
           "type": "ForgeMod",
@@ -471,32 +458,6 @@
             "size": 409261,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/drippyloadingscreen_forge_1.6.4_MC_1.16.2-1.16.5.jar",
             "MD5": "087a48c6459f992d5fe51ee36ba26bc5"
-          }
-        },
-        {
-          "id": "me.lambdaurora.lambdynlights:dynamiclightsreforged:mc1.16.5_v1.0.1@jar",
-          "name": "Dynamic Lights Reforged",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 122118,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
-            "MD5": "1cda780a90261f66a3a3b5dce12b903c"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "traben.entity_texture_features:entity_texture_features:4.0.2@jar",
-          "name": "Entity Texture Features",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 207069,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/entity_texture_features_forge_1.16.5-4.0.2.jar",
-            "MD5": "2f726e2c8b52f87e35a3d8c5c3da0a19"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -618,19 +579,6 @@
           }
         },
         {
-          "id": "vice.magnesium_extras:magnesium_extras:mc1.16.5_v1.4.0@jar",
-          "name": "Magnesium Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 92605,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/magnesium_extras-mc1.16.5_v1.4.0.jar",
-            "MD5": "330f67629fc09b66718fa19fb7573ce7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "tv.mapper:mapperbase:1.16.5-2.4.0.0@jar",
           "name": "Mapper Base",
           "type": "ForgeMod",
@@ -678,19 +626,6 @@
             "size": 142536,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
             "MD5": "514fe4c6c39bc1b7e474d813daab593e"
-          }
-        },
-        {
-          "id": "net.coderbot.iris:oculus:1.2.6@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1801950,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/oculus-1.2.6.jar",
-            "MD5": "080b94f0ef63770e75b8bf9f6efa73cd"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -747,32 +682,6 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.10@jar",
-          "name": "Rubidium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 597692,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/rubidium-0.2.10.jar",
-            "MD5": "d2c79305904084bd028bb37c169467d1"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.flashyreese.mods.sodiumextra.client:sodiumextra:1.16.5-0.4.10.37@jar",
-          "name": "Rubidium Extra",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 194405,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/RubidiumExtra-1.16.5-0.4.10.37.jar",
-            "MD5": "216035d9509ef29a8b68b1a363e195f5"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "link.infra:screenshotclipboard:1.0.7@jar",
           "name": "Screenshot to Clipboard",
           "type": "ForgeMod",
@@ -819,19 +728,6 @@
             "size": 13992473,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/tac-r-0.2.1.1-1.16.5.jar",
             "MD5": "6f3820a62c8a84a790565bcc36a6fe45"
-          }
-        },
-        {
-          "id": "me.flashyreese.mods.reeses_sodium_options.client:reeses_sodium_options:1.0.3-mc1.16.5@jar",
-          "name": "TexTrue's Rubidium Options",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 196738,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/textrues_rubidium_options-1.0.3-mc1.16.5.jar",
-            "MD5": "b1f3ef4b1740fe418d0e0d8019d8bd5d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
