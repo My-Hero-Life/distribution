@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "85eba19312d2cf78abd04e489ea1c5c2",
+                "MD5": "c7b6aaef28a12d3b1e43b5b3f463dbbe",
                 "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -896,9 +896,9 @@
           "name": "default.json",
           "type": "File",
           "artifact": {
-            "size": 628,
+            "size": 524,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/font/default.json",
-            "MD5": "e1c9cfdce5839f69c523bbd3f9e800c8",
+            "MD5": "c786bdec56c5c5b5a1cfb09bac8dfc9e",
             "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/assets/minecraft/font/default.json"
           }
         },
