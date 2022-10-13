@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -629,19 +629,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5924305,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
-            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "virtuoel.pehkui:pehkui:3.5.0+1.16.5-forge@jar",
           "name": "Pehkui",
           "type": "ForgeMod",
@@ -748,6 +735,16 @@
             "size": 3397300,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
             "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G7:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G7",
+          "type": "Library",
+          "artifact": {
+            "size": 5924305,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/libraries/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           }
         },
         {
