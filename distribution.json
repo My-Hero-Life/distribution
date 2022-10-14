@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.1.7",
+      "version": "1.1.8",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -351,6 +351,16 @@
           ]
         },
         {
+          "id": "com.minecraftabnormals.abnormals_core.core:abnormals_core:3.3.1@jar",
+          "name": "Abnormals Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 975979,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/abnormals_core-1.16.5-3.3.1.jar",
+            "MD5": "0c91b63a7f5863a10c2f1dfd7bf604af"
+          }
+        },
+        {
           "id": "co.uk.mrpineapple.additionalguns.core:additionalguns:0.7.2@jar",
           "name": "Additional Guns",
           "type": "ForgeMod",
@@ -543,6 +553,29 @@
           }
         },
         {
+          "id": "com.abdelaziz:forgetmechunk:1.0.4@jar",
+          "name": "ForgetMeChunk (Forge)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90851,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/forgetmechunk-mc1.16.5-1.0.4.jar",
+            "MD5": "b0ad9d4917e18f9d4397dc3457ec153d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dynamiclabs.immersivefx:dsurround:4.0.5.0@jar",
+          "name": "§3ImmersiveFX",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37907975,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/ImmersiveFX%201.0.2%201.16.5.jar",
+            "MD5": "47e4fcaf79b56af62c580a271050a3e1"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.5.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -629,6 +662,16 @@
           }
         },
         {
+          "id": "com.alrex:parcool:1.16.5-2.0.0.2-R@jar",
+          "name": "ParCool!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 269572,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/ParCool-1.16.5-2.0.0.2-R.jar",
+            "MD5": "d8537c5cfc85d2b57e198e4c80735271"
+          }
+        },
+        {
           "id": "virtuoel.pehkui:pehkui:3.5.0+1.16.5-forge@jar",
           "name": "Pehkui",
           "type": "ForgeMod",
@@ -636,6 +679,16 @@
             "size": 361045,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Pehkui-3.5.0+1.16.5-forge.jar",
             "MD5": "d6b1a3248ace2a8c9b94ee3d4ae55842"
+          }
+        },
+        {
+          "id": "com.minecraftabnormals.personality.core:personality:1.0.3@jar",
+          "name": "Personality",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 288997,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/personality-1.16.5-1.0.3.jar",
+            "MD5": "670a769a27fb13ff36051a532f8baba8"
           }
         },
         {
@@ -735,6 +788,16 @@
             "size": 3397300,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
             "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
+          }
+        },
+        {
+          "id": "net.cocofish:yuushya:Beta-0.10.2@jar",
+          "name": "Yuushya",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6261252,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Yuushya-Beta-0.10.2-forge.jar",
+            "MD5": "8d1660bf977d68a6090a980a2b2dcb3b"
           }
         },
         {
