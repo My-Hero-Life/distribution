@@ -1,5 +1,5 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.1.8",
+      "version": "1.1.9",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -622,16 +622,6 @@
           }
         },
         {
-          "id": "mtr:mtr:1.16.5-3.1.0@jar",
-          "name": "Minecraft Transit Railway",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 58396504,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.1.0.jar",
-            "MD5": "82af5b944f1025ac59e0fea73faddea3"
-          }
-        },
-        {
           "id": "mtr:mtr:1.16.5-3.1.3@jar",
           "name": "Minecraft Transit Railway",
           "type": "ForgeMod",
@@ -1149,6 +1139,17 @@
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/pack.png",
             "MD5": "0b3ea35a422482aca197d0bd21af1835",
             "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/pack.png"
+          }
+        },
+        {
+          "id": "Yuushya+0.17.1.zip",
+          "name": "Yuushya+0.17.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14979602,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/Yuushya+0.17.1.zip",
+            "MD5": "dc4670d6457ec56378839308080dae14",
+            "path": "resourcepacks/Yuushya+0.17.1.zip"
           }
         },
         {
