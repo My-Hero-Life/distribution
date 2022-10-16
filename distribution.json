@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
+  "version": "1.2.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.1.9",
+      "version": "1.2.0",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -471,6 +471,16 @@
           }
         },
         {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.5@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 657366,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/emotecraft-for-MC1.16.5-2.2.5-forge.jar",
+            "MD5": "29dcbe081d1417ebe7766846d9d4db44"
+          }
+        },
+        {
           "id": "meldexun.entityculling:entity_culling:2.1.6@jar",
           "name": "Entity Culling",
           "type": "ForgeMod",
@@ -702,6 +712,16 @@
           }
         },
         {
+          "id": "dev.kosmx.playeranim.impl:playeranimator:0.3.5+1.16.5@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 147335,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/player-animation-lib-forge-0.3.5+1.16.5.jar",
+            "MD5": "717c92aeec033acf005a0870227e96b6"
+          }
+        },
+        {
           "id": "tv.mapper:roadstuff:1.16.5-4.3.0@jar",
           "name": "Road Stuff",
           "type": "ForgeMod",
@@ -778,16 +798,6 @@
             "size": 3397300,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
             "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
-          }
-        },
-        {
-          "id": "net.cocofish:yuushya:Beta-0.10.2@jar",
-          "name": "Yuushya",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6261252,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Yuushya-Beta-0.10.2-forge.jar",
-            "MD5": "8d1660bf977d68a6090a980a2b2dcb3b"
           }
         },
         {
@@ -1139,17 +1149,6 @@
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/AscensionDuPouvoir-RessourcePack/pack.png",
             "MD5": "0b3ea35a422482aca197d0bd21af1835",
             "path": "resourcepacks/AscensionDuPouvoir-RessourcePack/pack.png"
-          }
-        },
-        {
-          "id": "Yuushya+0.17.1.zip",
-          "name": "Yuushya+0.17.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 14979602,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/resourcepacks/Yuushya+0.17.1.zip",
-            "MD5": "dc4670d6457ec56378839308080dae14",
-            "path": "resourcepacks/Yuushya+0.17.1.zip"
           }
         },
         {
