@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -401,6 +401,19 @@
           }
         },
         {
+          "id": "com.betterfpsdist:betterfpsdist:1.2@jar",
+          "name": "Betterfpsdist mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14478,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/betterfpsdist-1.2.jar",
+            "MD5": "2308031c7afa5e023fd5d988210890f7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.mrcrayfish:catalogue:1.6.1@jar",
           "name": "Catalogue",
           "type": "ForgeMod",
@@ -451,6 +464,32 @@
           }
         },
         {
+          "id": "com.blamejared:clumps:6.0.0.28@jar",
+          "name": "Clumps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18397,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/Clumps-6.0.0.28.jar",
+            "MD5": "0fdfe776ae513bd8a4c7396097ce42e9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "tfar.custommodelpredicates:custommodelpredicates:1.16.4-1.2@jar",
+          "name": "Example Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24968,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/custommodelpredicates-1.16.4-1.2.jar",
+            "MD5": "d80003769d7d69476d99f8566d428810"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.16.5.20220515@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
@@ -471,6 +510,19 @@
           }
         },
         {
+          "id": "me.lambdaurora.lambdynlights:dynamiclightsreforged:mc1.16.5_v1.0.1@jar",
+          "name": "Dynamic Lights Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122118,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
+            "MD5": "1cda780a90261f66a3a3b5dce12b903c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "io.github.kosmx.emotes:emotecraft:2.2.5@jar",
           "name": "Emotecraft",
           "type": "ForgeMod",
@@ -478,6 +530,32 @@
             "size": 657366,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/emotecraft-for-MC1.16.5-2.2.5-forge.jar",
             "MD5": "29dcbe081d1417ebe7766846d9d4db44"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:4.0.2@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 207069,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/entity_texture_features_forge_1.16.5-4.0.2.jar",
+            "MD5": "2f726e2c8b52f87e35a3d8c5c3da0a19"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "corgitaco.entitycollisionfpsfix:entitycollisionfpsfix:1.0.1@jar",
+          "name": "Entity Collision FPS Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5341,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/entitycollisionfpsfix-1.16-1.0.1.jar",
+            "MD5": "84dbfa2da29359ffb63a825a7e46734e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -576,6 +654,19 @@
           }
         },
         {
+          "id": "bre2el.fpsreducer:fpsreducer:1.24-mc1.16.5@jar",
+          "name": "FPS Reducer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95076,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/FpsReducer-forge-1.24-mc1.16.5.jar",
+            "MD5": "33801faed801cb3427b1b20cbb9a44fe"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dynamiclabs.immersivefx:dsurround:4.0.5.0@jar",
           "name": "§3ImmersiveFX",
           "type": "ForgeMod",
@@ -586,6 +677,19 @@
           }
         },
         {
+          "id": "de.keksuccino:justzoom:1.0.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7598,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/justzoom_forge_1.0.1_MC_1.16.2-1.16.5.jar",
+            "MD5": "ad43772696dd7df1b2202b1c8ce64c7b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.5.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -593,6 +697,19 @@
             "size": 577954,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/konkrete_forge_1.5.0_MC_1.16.2-1.16.5.jar",
             "MD5": "80e8bfaa1e59727fb023425c1be803b9"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.5.2@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 578731,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/konkrete_forge_1.5.2_MC_1.16.2-1.16.5.jar",
+            "MD5": "10ea430d3ad89138697832a3a9b4028e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -652,6 +769,19 @@
           }
         },
         {
+          "id": "fudge.notenoughcrashes:notenoughcrashes:4.1.4+1.16.5@jar",
+          "name": "Not Enough Crashes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178345,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/notenoughcrashes-4.1.4+1.16.5-forge.jar",
+            "MD5": "cd515cc366e4e3a70abcacaf1feeac2d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.mrcrayfish:obfuscate:0.6.3@jar",
           "name": "Obfuscate",
           "type": "ForgeMod",
@@ -659,6 +789,19 @@
             "size": 142536,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
             "MD5": "514fe4c6c39bc1b7e474d813daab593e"
+          }
+        },
+        {
+          "id": "net.coderbot.iris:oculus:1.2.6@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1801950,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/oculus-1.2.6.jar",
+            "MD5": "080b94f0ef63770e75b8bf9f6efa73cd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -722,6 +865,19 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.lithium:roadrunner:1.4.1@jar",
+          "name": "Meep Meep! (Road Runner)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 366414,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/RoadRunner-mc1.16.5-1.4.1.jar",
+            "MD5": "b76e79384c46bbc5e095b42d522eb036"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "tv.mapper:roadstuff:1.16.5-4.3.0@jar",
           "name": "Road Stuff",
           "type": "ForgeMod",
@@ -729,6 +885,45 @@
             "size": 3919117,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/roadstuff-1.16.5-4.3.0.jar",
             "MD5": "50f59414da4c293926e616d6c114cc9c"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.10@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597692,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/rubidium-0.2.10.jar",
+            "MD5": "d2c79305904084bd028bb37c169467d1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra.client:sodiumextra:1.16.5-0.4.10.37@jar",
+          "name": "Rubidium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194405,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/RubidiumExtra-1.16.5-0.4.10.37.jar",
+            "MD5": "216035d9509ef29a8b68b1a363e195f5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.abdelaziz:saturn:0.0.3@jar",
+          "name": "Saturn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20845,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/saturn-mc1.16.5-0.0.3.jar",
+            "MD5": "44f8f173ce399b7ca01e42021555b611"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -781,6 +976,32 @@
           }
         },
         {
+          "id": "me.flashyreese.mods.reeses_sodium_options.client:reeses_sodium_options:1.0.3-mc1.16.5@jar",
+          "name": "TexTrue's Rubidium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 196738,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/textrues_rubidium_options-1.0.3-mc1.16.5.jar",
+            "MD5": "b1f3ef4b1740fe418d0e0d8019d8bd5d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.trikzon:transparent:2.3.0@jar",
+          "name": "Transparent",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21692,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionalon/transparent-2.3.0+1.16.5-forge.jar",
+            "MD5": "ffa6e2e31ba925eb85433600571f54c8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "noppes.vc:variedcommodities:1.16.5.20220618@jar",
           "name": "VariedCommodities",
           "type": "ForgeMod",
@@ -798,16 +1019,6 @@
             "size": 3397300,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
             "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.16.5_HD_U_G8:0.0.0@jar",
-          "name": "OptiFine_1.16.5_HD_U_G8",
-          "type": "Library",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
         {
