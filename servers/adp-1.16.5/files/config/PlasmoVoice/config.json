@@ -3,6 +3,14 @@
     "45.140.165.54": {
       "distance": 24,
       "priorityDistance": 48
+    },
+    "176.31.135.246": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "127.0.0.1": {
+      "distance": 16,
+      "priorityDistance": 48
     }
   },
   "playerVolumes": {},
