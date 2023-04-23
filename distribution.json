@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.2.4",
+      "version": "1.2.5",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -441,13 +441,13 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.16.5.20220515@jar",
+          "id": "noppes.npcs:customnpcs:1.16.5.20220226@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12457390,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
-            "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
+            "size": 12426252,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220226.jar",
+            "MD5": "2b7b3d81d98f1d36270d9abe68133121"
           }
         },
         {
@@ -640,6 +640,20 @@
             "size": 222545,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/mapperbase-1.16.5-2.4.0.0.jar",
             "MD5": "1b727e33ef0abe0b2559b267eef9cefe"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.0.0@jar",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 153047,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/memoryleakfix-forge-pre1.17-1.0.0.jar",
+            "MD5": "58a84b36e594be8e10b23811bbfb2c9f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
