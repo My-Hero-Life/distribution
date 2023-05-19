@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -11,8 +11,8 @@
       "id": "adp-1.16.5",
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.2.5",
+      "icon": null,
+      "version": "1.2.2",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -357,23 +357,23 @@
           ]
         },
         {
-          "id": "me.shedaniel:architectury:1.32.67@jar",
+          "id": "me.shedaniel:architectury:1.32.68@jar",
           "name": "Architectury",
           "type": "ForgeMod",
           "artifact": {
-            "size": 551880,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/architectury-1.32.67.jar",
-            "MD5": "4f30154fdaf785c4db66bfd9305526ad"
+            "size": 551889,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/architectury-1.32.68.jar",
+            "MD5": "74a431a4f1a32ec5bbb4bfeb120887c6"
           }
         },
         {
-          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.0-beta.18@jar",
+          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.0-beta.21@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3304752,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.18.jar",
-            "MD5": "ec0cb974924c588b816bda7f8eb05def"
+            "size": 3360882,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.21.jar",
+            "MD5": "af7cb65a5ee6053e596a5a55774adebe"
           }
         },
         {
@@ -441,23 +441,23 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.16.5.20220226@jar",
+          "id": "noppes.npcs:customnpcs:1.16.5.20220515@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12426252,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220226.jar",
-            "MD5": "2b7b3d81d98f1d36270d9abe68133121"
+            "size": 12457390,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
+            "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
           }
         },
         {
-          "id": "de.keksuccino:drippyloadingscreen:2.1.4@jar",
+          "id": "de.keksuccino:drippyloadingscreen:2.2.1@jar",
           "name": "Drippy Loading Screen",
           "type": "ForgeMod",
           "artifact": {
-            "size": 116708,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/drippyloadingscreen_forge_2.1.4_MC_1.16.5.jar",
-            "MD5": "23662f882b2ebcf3c36176f482eb6b29"
+            "size": 126314,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/drippyloadingscreen_forge_2.2.1_MC_1.16.5.jar",
+            "MD5": "b0f993c49ea869a8e8d516865ae2c7af"
           }
         },
         {
@@ -472,6 +472,16 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "nl.requios:effortlessbuilding:1.16.3-2.32@jar",
+          "name": "Effortless Building",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 542792,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/effortlessbuilding-1.16.3-2.32.jar",
+            "MD5": "75ae25ba5ac7614b346c9c9d13437484"
           }
         },
         {
@@ -499,13 +509,13 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:2.14.3@jar",
+          "id": "de.keksuccino:fancymenu:2.14.7@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1318338,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/fancymenu_forge_2.14.3_MC_1.16.2-1.16.5.jar",
-            "MD5": "72e8c25ae76b289efacd15fa99abb795"
+            "size": 1321410,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/fancymenu_forge_2.14.7_MC_1.16.2-1.16.5.jar",
+            "MD5": "48ffebd35b11f55ee54a15609a908a74"
           }
         },
         {
@@ -571,6 +581,30 @@
           }
         },
         {
+          "id": "bre2el.fpsreducer:fpsreducer:1.24-mc1.16.5@jar",
+          "name": "FPS Reducer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95076,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/FpsReducer-forge-1.24-mc1.16.5.jar",
+            "MD5": "33801faed801cb3427b1b20cbb9a44fe"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib3:3.0.106@jar",
+          "name": "GeckoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3559283,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
+            "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
+          }
+        },
+        {
           "id": "dynamiclabs.immersivefx:dsurround:4.0.5.0@jar",
           "name": "§3ImmersiveFX",
           "type": "ForgeMod",
@@ -595,27 +629,13 @@
           }
         },
         {
-          "id": "de.keksuccino:konkrete:1.6.0@jar",
+          "id": "de.keksuccino:konkrete:1.6.1@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
           "artifact": {
-            "size": 642925,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar",
-            "MD5": "e436464ed464ee3096eb11541096899f"
-          }
-        },
-        {
-          "id": "ru.vidtu:ksyxis:1.1@jar",
-          "name": "Ksyxis",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9186,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/Ksyxis-Forge1.14thru1.16-1.1.jar",
-            "MD5": "7c1761cff6514ccfbe8fde869f3a4f5b"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 643559,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar",
+            "MD5": "0d29f39a11641e7d83663dc89148632c"
           }
         },
         {
@@ -677,13 +697,13 @@
           }
         },
         {
-          "id": "mtr:mtr:1.16.5-3.2.1-hotfix-1@jar",
+          "id": "mtr:mtr:1.16.5-3.2.2-hotfix-1@jar",
           "name": "Minecraft Transit Railway",
           "type": "ForgeMod",
           "artifact": {
-            "size": 60783437,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.2.1-hotfix-1.jar",
-            "MD5": "e908bc707fffa3de359ba3b770bd509f"
+            "size": 62232931,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.2.2-hotfix-1.jar",
+            "MD5": "e87afc2ba80a68a4ae6d217b082316e1"
           }
         },
         {
@@ -735,13 +755,13 @@
           }
         },
         {
-          "id": "com.alrex:parcool:1.16.5-3.0.0.2-R@jar",
+          "id": "com.alrex:parcool:1.16.5-3.0.1.0-R@jar",
           "name": "ParCool!",
           "type": "ForgeMod",
           "artifact": {
-            "size": 476935,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/ParCool-1.16.5-3.0.0.2-R.jar",
-            "MD5": "fd4c8bed3eb8923cd64623ba2a78bfc2"
+            "size": 496037,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/ParCool-1.16.5-3.0.1.0-R.jar",
+            "MD5": "1e40204c86badc874b50fe1752239266"
           }
         },
         {
@@ -865,13 +885,13 @@
           }
         },
         {
-          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.4-mc1.16.5@jar",
+          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.5-Hotfix-mc1.16.5@jar",
           "name": "TexTrue's Rubidium Options",
           "type": "ForgeMod",
           "artifact": {
-            "size": 194514,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/TextruesRubidiumOptions-1.0.4-mc1.16.5.jar",
-            "MD5": "febe415e8a3616cc9ba670f9f3c86729"
+            "size": 193369,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/TextruesRubidiumOptions-1.0.5-Hotfix-mc1.16.5.jar",
+            "MD5": "0a1ec028b8da63d2a2a9aa6cf4813c08"
           },
           "required": {
             "value": false,
