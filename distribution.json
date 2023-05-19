@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.6",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -11,8 +11,8 @@
       "id": "adp-1.16.5",
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": null,
-      "version": "1.2.2",
+      "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
+      "version": "1.2.6",
       "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
