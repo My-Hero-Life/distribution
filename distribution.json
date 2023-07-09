@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.2.7",
+      "version": "1.2.8",
       "address": "176.31.135.246:25624",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -639,16 +639,6 @@
           }
         },
         {
-          "id": "generated.forgemod:iv_trin_emergency_pack_1.4.0:0.0.0@jar",
-          "name": "IV_Trin_Emergency_Pack_1.4.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2075949,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/IV_Trin_Emergency_Pack_1.4.0.jar",
-            "MD5": "7daec90c56145a9e27aab597a1982551"
-          }
-        },
-        {
           "id": "de.keksuccino:justzoom:1.0.1@jar",
           "name": "Just Zoom",
           "type": "ForgeMod",
@@ -954,26 +944,6 @@
           "required": {
             "value": false,
             "def": false
-          }
-        },
-        {
-          "id": "iv_tcp_v3:iv_tcp_v3:3.20.0@jar",
-          "name": "Immersive Vehicles (MTS/IV) - Trin Civil Pack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 51791009,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Trin+Civil+Pack-1.16.5-3.20.0.jar",
-            "MD5": "6c653d9504facaacfd93fbd267eaccee"
-          }
-        },
-        {
-          "id": "unuparts:unucustom:6.0.0@jar",
-          "name": "UNU Custom Parts Pack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29014910,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/UNU%20Parts%20Pack%20[MTS]%201.16.5-22.10.0-6.0.0.jar",
-            "MD5": "4d6b894eed1ef3e32d9108253286c9ca"
           }
         },
         {
