@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,7 +12,7 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "address": "176.31.135.246:25624",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -357,6 +357,20 @@
           ]
         },
         {
+          "id": "generated.forgemod:_mixinbootstrap:1.1.0@jar",
+          "name": "_MixinBootstrap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119478,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/_MixinBootstrap-1.1.0.jar",
+            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "me.shedaniel:architectury:1.32.68@jar",
           "name": "Architectury",
           "type": "ForgeMod",
@@ -367,13 +381,13 @@
           }
         },
         {
-          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.0-beta.21@jar",
+          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.0-beta.31@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3360882,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.21.jar",
-            "MD5": "af7cb65a5ee6053e596a5a55774adebe"
+            "size": 3417044,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.31.jar",
+            "MD5": "80d6047e3d90f436bf66bdf2ff1ce452"
           }
         },
         {
@@ -451,13 +465,13 @@
           }
         },
         {
-          "id": "de.keksuccino:drippyloadingscreen:2.2.1@jar",
+          "id": "de.keksuccino:drippyloadingscreen:2.2.2@jar",
           "name": "Drippy Loading Screen",
           "type": "ForgeMod",
           "artifact": {
-            "size": 126314,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/drippyloadingscreen_forge_2.2.1_MC_1.16.5.jar",
-            "MD5": "b0f993c49ea869a8e8d516865ae2c7af"
+            "size": 126787,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/drippyloadingscreen_forge_2.2.2_MC_1.16.5.jar",
+            "MD5": "1e96a4435178b374bd92549e68421bc0"
           }
         },
         {
@@ -495,13 +509,13 @@
           }
         },
         {
-          "id": "meldexun.entityculling:entity_culling:2.1.6@jar",
+          "id": "meldexun.entityculling:entity_culling:2.1.7@jar",
           "name": "Entity Culling",
           "type": "ForgeMod",
           "artifact": {
-            "size": 60714,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/EntityCulling-1.16.5-2.1.6.jar",
-            "MD5": "99280d6fb3b1b6d305a47cdeb3df264c"
+            "size": 60730,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/EntityCulling-1.16.5-2.1.7.jar",
+            "MD5": "9dbe1b391814d9694abbccd6cc8bcc59"
           },
           "required": {
             "value": false,
@@ -605,6 +619,16 @@
           }
         },
         {
+          "id": "mcinterface1165:mts:1.16.5-22.10.0@jar",
+          "name": "Immersive Vehicles (formerly MTS)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3626308,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Immersive%20Vehicles-1.16.5-22.10.0.jar",
+            "MD5": "4b26aa5e998666e41ce56e0a0f0efdbb"
+          }
+        },
+        {
           "id": "dynamiclabs.immersivefx:dsurround:4.0.5.0@jar",
           "name": "§3ImmersiveFX",
           "type": "ForgeMod",
@@ -612,6 +636,16 @@
             "size": 37907975,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/ImmersiveFX%201.0.2%201.16.5.jar",
             "MD5": "47e4fcaf79b56af62c580a271050a3e1"
+          }
+        },
+        {
+          "id": "generated.forgemod:iv_trin_emergency_pack_1.4.0:0.0.0@jar",
+          "name": "IV_Trin_Emergency_Pack_1.4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2075949,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/IV_Trin_Emergency_Pack_1.4.0.jar",
+            "MD5": "7daec90c56145a9e27aab597a1982551"
           }
         },
         {
@@ -707,6 +741,16 @@
           }
         },
         {
+          "id": "mtsofficialpack:mtsofficialpack:V24@jar",
+          "name": "Immersive Vehicles (MTS/IV) - Official Content Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4897098,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTS%20Official%20Pack-1.16.5-V25.jar",
+            "MD5": "ecbfa85f61fe756c74521374ce964a44"
+          }
+        },
+        {
           "id": "com.nosiphus.furniture:nfm:2022.10.27@jar",
           "name": "Nosiphus Furniture Mod",
           "type": "ForgeMod",
@@ -765,13 +809,13 @@
           }
         },
         {
-          "id": "virtuoel.pehkui:pehkui:3.7.3+1.16.5-forge@jar",
+          "id": "virtuoel.pehkui:pehkui:3.7.6+1.16.5-forge@jar",
           "name": "Pehkui",
           "type": "ForgeMod",
           "artifact": {
-            "size": 416818,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Pehkui-3.7.3+1.16.5-forge.jar",
-            "MD5": "f5eb26f24f70b7b888d5c8d3ba7e4a82"
+            "size": 434636,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Pehkui-3.7.6+1.16.5-forge.jar",
+            "MD5": "28e1935907f51cfdc07983b5e625dab9"
           }
         },
         {
@@ -792,6 +836,20 @@
             "size": 161419,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/player-animation-lib-forge-0.4.0+1.16.5.jar",
             "MD5": "2fc3ce0ccef9597cca2ec5be3b953b6d"
+          }
+        },
+        {
+          "id": "meldexun.renderlib:renderlib:1.12.2-1.3.1@jar",
+          "name": "RenderLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194911,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/RenderLib-1.12.2-1.3.1.jar",
+            "MD5": "99b12e9180c6674ba001ae20749e851d"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -819,13 +877,13 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.11@jar",
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.12@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 601605,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/rubidium-0.2.11.jar",
-            "MD5": "13b5154c4b10a24dc6f85bc4d6938aa6"
+            "size": 592467,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/optionaloff/rubidium-0.2.12.jar",
+            "MD5": "3297931cc98993f5741d6967eaafed16"
           },
           "required": {
             "value": false,
@@ -896,6 +954,26 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "iv_tcp_v3:iv_tcp_v3:3.20.0@jar",
+          "name": "Immersive Vehicles (MTS/IV) - Trin Civil Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 51791009,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Trin+Civil+Pack-1.16.5-3.20.0.jar",
+            "MD5": "6c653d9504facaacfd93fbd267eaccee"
+          }
+        },
+        {
+          "id": "unuparts:unucustom:6.0.0@jar",
+          "name": "UNU Custom Parts Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29014910,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/UNU%20Parts%20Pack%20[MTS]%201.16.5-22.10.0-6.0.0.jar",
+            "MD5": "4d6b894eed1ef3e32d9108253286c9ca"
           }
         },
         {
