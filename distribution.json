@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1012446364480843777",
@@ -12,8 +12,8 @@
       "name": "L'ascension du Pouvoir",
       "description": "L'ascension du Pouvoir Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/assets/logo.png",
-      "version": "1.2.8",
-      "address": "176.31.135.246:25624",
+      "version": "1.2.9",
+      "address": "87.98.251.52:30369",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "My Hero Life Instance RolePlay",
@@ -619,16 +619,6 @@
           }
         },
         {
-          "id": "mcinterface1165:mts:1.16.5-22.10.0@jar",
-          "name": "Immersive Vehicles (formerly MTS)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3626308,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/Immersive%20Vehicles-1.16.5-22.10.0.jar",
-            "MD5": "4b26aa5e998666e41ce56e0a0f0efdbb"
-          }
-        },
-        {
           "id": "dynamiclabs.immersivefx:dsurround:4.0.5.0@jar",
           "name": "§3ImmersiveFX",
           "type": "ForgeMod",
@@ -728,16 +718,6 @@
             "size": 62232931,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTR-forge-1.16.5-3.2.2-hotfix-1.jar",
             "MD5": "e87afc2ba80a68a4ae6d217b082316e1"
-          }
-        },
-        {
-          "id": "mtsofficialpack:mtsofficialpack:V24@jar",
-          "name": "Immersive Vehicles (MTS/IV) - Official Content Pack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4897098,
-            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/forgemods/required/MTS%20Official%20Pack-1.16.5-V25.jar",
-            "MD5": "ecbfa85f61fe756c74521374ce964a44"
           }
         },
         {
@@ -1296,13 +1276,46 @@
           }
         },
         {
+          "id": "icon.png",
+          "name": "icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 1135859,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/assets/icon.png",
+            "MD5": "1e42ed1e450e058811f5e4f0fd4f23fa",
+            "path": "config/fancymenu/assets/icon.png"
+          }
+        },
+        {
+          "id": "yuei.png",
+          "name": "yuei.png",
+          "type": "File",
+          "artifact": {
+            "size": 2915815,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/assets/yuei.png",
+            "MD5": "aff9fefb6fa9f5d995a56142ac77bbbd",
+            "path": "config/fancymenu/assets/yuei.png"
+          }
+        },
+        {
+          "id": "yuei_blur.png",
+          "name": "yuei_blur.png",
+          "type": "File",
+          "artifact": {
+            "size": 1045013,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/assets/yuei_blur.png",
+            "MD5": "f40210f33dce8d03145095504dbc92a9",
+            "path": "config/fancymenu/assets/yuei_blur.png"
+          }
+        },
+        {
           "id": "config.txt",
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1722,
+            "size": 1719,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/config.txt",
-            "MD5": "5a3be3ae5f82ce3598215fbf103e3504",
+            "MD5": "c8b1060df6bb5f445781121661921847",
             "path": "config/fancymenu/config.txt"
           }
         },
@@ -1311,10 +1324,32 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 99,
+            "size": 151,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "19d383b0e3a0c08de6f0b4c69d0e4b3e",
+            "MD5": "988527e053240bf760fd11441b23d05e",
             "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "loading_adp.txt",
+          "name": "loading_adp.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1800,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/customization/loading_adp.txt",
+            "MD5": "253def156470b1037c75ea112eb068c2",
+            "path": "config/fancymenu/customization/loading_adp.txt"
+          }
+        },
+        {
+          "id": "mainmenu_adp.txt",
+          "name": "mainmenu_adp.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2024,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/customization/mainmenu_adp.txt",
+            "MD5": "0d60adf65a8db513e6f75dd1b40aeac8",
+            "path": "config/fancymenu/customization/mainmenu_adp.txt"
           }
         },
         {
@@ -1355,9 +1390,9 @@
           "name": "en_us.local",
           "type": "File",
           "artifact": {
-            "size": 103876,
+            "size": 113824,
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/en_us.local",
-            "MD5": "25ef57036038953fb99f5d8f2d194b5e",
+            "MD5": "320e2ec6fee20689004105d94cd809af",
             "path": "config/fancymenu/locals/en_us.local"
           }
         },
@@ -1381,6 +1416,28 @@
             "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/pt_br.local",
             "MD5": "9a91316e7c6e61a7a1e0874f34f77482",
             "path": "config/fancymenu/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "ru_ru.local",
+          "name": "ru_ru.local",
+          "type": "File",
+          "artifact": {
+            "size": 155574,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/ru_ru.local",
+            "MD5": "06d4d09969aa81e24ad92ab8d00b178c",
+            "path": "config/fancymenu/locals/ru_ru.local"
+          }
+        },
+        {
+          "id": "uk_ua.local",
+          "name": "uk_ua.local",
+          "type": "File",
+          "artifact": {
+            "size": 147984,
+            "url": "https://raw.githubusercontent.com/My-Hero-Life/distribution/main/servers/adp-1.16.5/files/config/fancymenu/locals/uk_ua.local",
+            "MD5": "617020e85943f6f8e44662d128945f46",
+            "path": "config/fancymenu/locals/uk_ua.local"
           }
         },
         {

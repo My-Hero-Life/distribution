@@ -1,0 +1,84 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 116
+  width = 248
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = a185f42b-5ebf-4ec4-9b32-179fef2860e31688911752252
+  y = 93
+  height = 62
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_memory
+  actionid = 27f72dc6-4478-4dc5-8760-29b5aec8a8be1688911752263
+  y = 10
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_log
+  actionid = e8849ff6-68c0-4282-9d92-0ff17dd838321688911752264
+  y = 198
+  height = 50
+}
+
+customization {
+  custom_color_hex = #102568
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 1c278a47-4398-4943-b7b3-ffeab35233791688911752264
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 116
+  width = 248
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = f8c40754-5dda-458f-a0b1-7aa884bdba301688911752264
+  y = 201
+  height = 10
+}
+
+customization {
+  path = config/fancymenu/assets/icon.png
+  orientation = mid-centered
+  x = -150
+  width = 291
+  action = addtexture
+  actionid = 2200ad85-d659-420e-8921-7d9192c29c051688911934222
+  y = -104
+  height = 164
+}
+

@@ -1,0 +1,99 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/assets/yuei_blur.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 106
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 3d2c9078-d397-483c-874b-012fbde2ffd01688912228228
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 38e62aff-a2cc-447d-8905-9f1197a8f9901688912228228
+  y = 206
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 251
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 0a0d666e-80c5-4d46-8e00-535e2cb407d81688912228228
+  y = 228
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 937e3f6e-41e2-4929-a91f-45d8c8b0018f1688912228228
+  y = 162
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 84662410-989a-478a-a18c-aa91985683601688912228228
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 677968c6-c4e7-44ce-ac95-3a744bf91c741688912228229
+  y = 0
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/assets/icon.png
+  orientation = top-centered
+  x = -88
+  width = 177
+  action = addtexture
+  actionid = 08bb99a6-71da-442b-b1a6-9fd00c2b93501688912282244
+  y = 7
+  height = 100
+}
+
